@@ -1,3 +1,7 @@
 This is a test from a file creted in terminal with Vim tool.
 
 This is a changed made in this file to see if git can track the change.
+
+Change for chek de commando diff.
+
+GIT: cambio que no esa en el staged y que sin embargo va a ser mandado.
