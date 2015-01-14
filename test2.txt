@@ -1,2 +1,6 @@
-Este est un archivo para probar el git.
 Modificaciones 
+Este est un archivo para probar el git.
+MMOfiicacion de otro archivo
+
+
+Modificacon del archi
