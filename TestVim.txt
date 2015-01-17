@@ -6,4 +6,9 @@ Change for chek de commando diff.
 
 GIT: cambio que no esa en el staged y que sin embargo va a ser mandado.
 
+<<<<<<< HEAD
 This a change made under the issue14 branch.
+=======
+
+Change made by issue 15 for .
+>>>>>>> issue15
